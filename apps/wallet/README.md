@@ -14,10 +14,6 @@
   <a href="https://docs.xrp.community">Documentation</a> &nbsp;·&nbsp;
 </p>
 
-> **Placeholder.** The links above are temporary placeholders. Before publishing,
-> replace `https://xrp.community` with the real website, web app, documentation, and
-> community channel URLs. You can remove this block once the links are finalized.
-
 ---
 
 ## About

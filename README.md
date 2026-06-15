@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo-black.png" alt="Ripple Community Wallet" width="180" />
+  <img src="apps/wallet/public/logo-black.png" alt="Ripple Community Wallet" width="180" />
 </p>
 
 <h1 align="center">Ripple Community Wallet</h1>
@@ -13,10 +13,6 @@
   <a href="https://wallet.xrp.community">Web wallet app</a> &nbsp;·&nbsp;
   <a href="https://docs.xrp.community">Documentation</a> &nbsp;·&nbsp;
 </p>
-
-> **Placeholder.** The links above are temporary placeholders. Before publishing,
-> replace `https://xrp.community` with the real website, web app, documentation, and
-> community channel URLs. You can remove this block once the links are finalized.
 
 ---
 
